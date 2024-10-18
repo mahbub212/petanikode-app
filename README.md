@@ -1,2 +1,2 @@
 # petanikode-app
-contoh pengintegrasian dengan jenkins
+pengintegrasian dengan jenkins
